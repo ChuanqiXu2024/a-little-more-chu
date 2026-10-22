@@ -1,0 +1,5 @@
+# For a GitHub Pages project site the governing robots.txt lives at the host root
+# (https://chuanqixu2024.github.io/robots.txt), so this copy is informational only.
+# Every page carries <meta name="robots" content="noindex, follow">; crawling stays allowed.
+User-agent: *
+Allow: /
